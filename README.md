@@ -2,7 +2,7 @@
 <h3 align="center">Front End Web Developer Based in Ottawa, Canada</h3>
 
 
-<h4 align="center">All my creation is based on self learning, conjuring websites within the palms of my hands with different leading tech in the industry is something I'll keep doing to the last day of my life, hoping to leave my mark on our tangled web to solve the mystery of humanity</h4>
+<h4 align="center">All my creation is based on self learning, conjuring websites within the palms of my hands with different leading tech in the industry is something I'll keep doing to the last day of my life, hoping to leave my mark on our tangled web to solve the mystery of universe</h4>
 
 <h3 align="center">Skills:</h3>
 <p align="center">
