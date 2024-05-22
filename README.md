@@ -1,15 +1,6 @@
-<h1 align="center">Welcome to my GitHub! I'm Omar Elghobary</h1>
-<h3 align="center"> a passionate Front-End Developer with a keen eye for design creative coding and user experience, Based in Ottawa, Canada</h3>
+<h1 align="center">Omar Elghobary</h1>
+<h3 align="center"> a passionate Tech guy with a keen eye for design creative coding and IT support, Based in Ottawa, Canada</h3>
 
-
-<h4 align="center">🚀 I specialize in:
-
-✨ Creating stunning and responsive web interfaces using HTML, CSS, and JavaScript.
-🎨 Designing intuitive user interfaces that marry aesthetics with functionality.
-🛠️ Implementing cutting-edge front-end technologies like React, and Vue.js.
-💻 Solving complex UI/UX challenges to enhance user engagement.
-📱 Ensuring mobile responsiveness and cross-browser compatibility.
-</h4>
 
 <h3 align="center">Skills:</h3>
 <p align="center">
