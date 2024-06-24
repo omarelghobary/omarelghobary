@@ -1,5 +1,5 @@
 <h1 align="center">Omar Elghobary</h1>
-<h3 align="center"> a passionate Tech guy with a keen eye for design creative coding and IT support, 
+<h3 align="center"> a passionate Aspiring IT Professional with a keen eye for design creative coding, automation and security software, 
   Based in Ottawa, Canada</h3>
 
 
